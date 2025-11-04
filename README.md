@@ -37,7 +37,7 @@ I help brands grow their online visibility through technical SEO, optimized Word
 
 ### 🌐 Let’s Connect
 - 💼 [LinkedIn](#)  
-- 🌍 [Portfolio Website](rizwan.info)  
+- 🌍 [Portfolio Website](https://rizwan.info)  
 - 🐦 [Twitter](#)  
 - 📫 [Email Me](mailto:me@rizwna.info)
 
