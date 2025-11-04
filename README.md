@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**RizwanAkramOfficial/RizwanAkramOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Rizwan
+I'm an SEO and WordPress expert passionate about improving website performance, visibility, and user experience.
 
-Here are some ideas to get you started:
+### 🔧 My Skill Set
+- Technical SEO & Site Optimization  
+- WordPress Speed, Schema, and Security  
+- Web & Social Management  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects
+- [SEO Dashboard Template](#)
+- [WordPress Maintenance Toolkit](#)
+- [Client Website Optimization Case Study](#)
+
+### 🌐 Connect
+- [LinkedIn](#)
+- [Portfolio Website](#)
+- [Twitter](#)
